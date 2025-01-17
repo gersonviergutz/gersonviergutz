@@ -15,3 +15,9 @@
 - PL-300 - Power BI Data Analyst Associate
 - MCT - Microsoft Certified Training
 - MCSA: BI Reporting
+  
+<div>
+<a href="https://www.youtube.com/@gersonmvp" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/gerson.mvp" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="[https://www.instagram.com/gerson.mvp](https://www.linkedin.com/in/gersonggv/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
